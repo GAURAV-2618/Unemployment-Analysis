@@ -50,6 +50,3 @@ The notebook cleans the dataset, converts dates, removes empty records, performs
 * Labour participation decreased from **43.89% to 39.33%**.
 * The highest unemployment rate occurred in **May 2020 at 24.88%**.
 
-## Author
-
-**Gaurav Chaudhari**
